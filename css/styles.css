@@ -246,3 +246,24 @@ html{-webkit-text-size-adjust:100%}*{-webkit-tap-highlight-color:transparent}
 #cur.h{width:54px;height:54px}
 @media(hover:none),(pointer:coarse){#cur{display:none}}
 @media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important;scroll-behavior:auto!important}.rv{opacity:1;transform:none}.hero h1 b{transform:none}.portrait::after{display:none}.portrait img{transform:none}}
+
+
+.resume-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    padding: 12px 22px;
+    margin-top: 20px;
+    background: #000000;
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 30px;
+    font-size: 14px;
+    font-weight: 600;
+    transition: 0.3s ease;
+}
+
+.resume-btn:hover {
+    background: #000000;
+    transform: translateY(-3px);
+}

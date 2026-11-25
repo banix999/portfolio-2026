@@ -5,7 +5,7 @@ const CFG={name:"Carl Laurence Baes",email:"laurence12channel@gmail.com",
  socials:[["Instagram","https://www.instagram.com/banix.stz/?hl=en"],["YouTube","https://youtube.com/"],["LinkedIn","https://www.linkedin.com/in/carl-laurence-baes-2501ab315/"],["TikTok","https://tiktok.com/"],["Facebook","https://www.facebook.com/carmelolaurence.baes"]],
  // EmailJS (https://www.emailjs.com): fill all three to enable real sending
  emailjs:{service:"",template:"",publicKey:""}};
-const MEDIA={portrait:"assets/images/Profile1.jpg",
+const MEDIA={portrait:"assets/images/profile.png",
  certs:[{t:"Payout",o:"Equity Edge",src:"assets/images/cert1.png"},
    {t:"Funded Trader",o:"Top Step",src:"assets/images/cert2.jfif"},
    {t:"Funded Trader",o:"Equity Edge",src:"assets/images/cert3.jfif"}],
